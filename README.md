@@ -2,6 +2,11 @@
 
 A privacy-first, fully browser-based AI research assistant. Runs entirely on the client side using **WebLLM** and **Transformers.js**.
 
+![DeepSearch Screenshot](capture_site.png)
+
+## 🌍 Launch Live Demo
+[https://bernadetvalentin-design.github.io/LLM_ResearchPaper_Analysis/](https://bernadetvalentin-design.github.io/LLM_ResearchPaper_Analysis/)
+
 ## 🚀 Features
 
 - **Privacy First**: No data leaves your browser. Everything runs locally via WebGPU.
