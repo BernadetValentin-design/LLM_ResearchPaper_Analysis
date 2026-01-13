@@ -57,12 +57,3 @@ If you have Node installed:
 ```bash
 npx http-server .
 ```
-
-## ⚠️ Requirements
-
-- **Browser**: Chrome 113+ or Edge 113+ (Latest versions recommended).
-- **Hardware**: A GPU (integrated or dedicated) with support for WebGPU.
-  - *Note*: First run requires downloading ~2-3GB of model weights (cached afterwards).
-- **Troubleshooting**:
-  - If you see "WebGPU not supported", verify your browser settings at [webgpureport.org](https://webgpureport.org).
-  - Use `CTRL + F5` to clear cache if you update the code.
