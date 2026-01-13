@@ -1,13 +1,13 @@
-# DeepSearch: Local AI Researcher 📚
+# DeepSearch: Local AI Researcher 
 
 A privacy-first, fully browser-based AI research assistant. Runs entirely on the client side using **WebLLM** and **Transformers.js**.
 
 ![DeepSearch Screenshot](capture_site.png)
 
-## 🌍 Launch Live Demo
+##  Launch Live Demo
 [https://bernadetvalentin-design.github.io/LLM_ResearchPaper_Analysis/](https://bernadetvalentin-design.github.io/LLM_ResearchPaper_Analysis/)
 
-## 🚀 Features
+##  Features
 
 - **Privacy First**: No data leaves your browser. Everything runs locally via WebGPU.
 - **RAG Engine**:
@@ -27,7 +27,7 @@ A privacy-first, fully browser-based AI research assistant. Runs entirely on the
   - Sequential file upload support.
   - Modern "App-like" aesthetic with Tailwind CSS.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Core**: Vanilla JavaScript (ES Modules)
 - **UI**: HTML5 + Tailwind CSS (Orange Theme) + FontAwesome
@@ -38,7 +38,7 @@ A privacy-first, fully browser-based AI research assistant. Runs entirely on the
     - [PDF.js](https://mozilla.github.io/pdf.js/) (PDF Text Extraction)
     - [Marked.js](https://marked.js.org/) (Markdown Rendering)
 
-## 💻 How to Run Locally
+##  How to Run Locally
 
 Because this project uses ES Modules and loads external models, you **cannot** just open `index.html` file directly. You need a local web server to handle CORS and file loading.
 
